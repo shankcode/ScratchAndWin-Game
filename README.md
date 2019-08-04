@@ -15,4 +15,5 @@ Its a React Native based GAME app.
 
 **Any suggestions in design or development are most WELCOME!!!**
 
-![Screenshot_1564934346](https://user-images.githubusercontent.com/27643631/62426462-daca0100-b702-11e9-9cca-bb56b0e90559.png)![Screenshot_1564934354](https://user-images.githubusercontent.com/27643631/62426585-38ab1880-b704-11e9-9231-2af118ff952b.png)
+![Screenshot_1564934346](https://user-images.githubusercontent.com/27643631/62426689-b1f73b00-b705-11e9-9169-ebce38657c9e.png)
+![Screenshot_1564934354](https://user-images.githubusercontent.com/27643631/62426691-b6235880-b705-11e9-8a0b-65791eb1c58c.png)
